@@ -1,122 +1,85 @@
-<h3 align="center">
-React Native Developer • High-Performance Mobile Apps • Clean Architecture
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=React+Native+Developer;High-Performance+Apps;Clean+Architecture;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://twitter.com/NaumanNomi4142" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/NaumanNomi4142?style=social&logo=twitter" alt="Twitter Follow" />
+    </a>
+    <a href="https://linkedin.com/in/-muhammadnauman" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-Building smooth, scalable, and user-friendly cross-platform mobile experiences.
-</p>
-
-<img align="center" alt="Mobile Development" width="100%"
-src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif" />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naumanx&theme=flat&margin-w=10&no-frame=true" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/NaumanNomi4142" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/NaumanNomi4142?logo=twitter&style=for-the-badge" alt="NaumanNomi4142" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif" width="100%" alt="Mobile Development Banner" />
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📱 **React Native Developer** specializing in cross-platform mobile apps
-- ⚛️ Strong experience with **React Native, Expo, TypeScript, JavaScript**
-- 🎨 Passionate about **UI/UX, animations, and performance optimization**
-- 🧠 Comfortable with **REST APIs, state management, and clean architecture**
-- 🔧 Experienced with **Git/GitHub** and collaborative workflows
-- 🚀 Always learning and staying up-to-date with modern mobile development
+I'm a passionate **Mobile Application Developer** with a knack for building buttery-smooth, high-performance applications. I bridge the gap between **clean code** and **beautiful design**.
+
+- 📱 I specialize in **React Native** & **Cross-Platform Development**
+- 🎨 I love creating **Polished UI/UX** with smooth animations
+- 🔧 I focus on **Scalable Architecture** & **Performance Optimization**
+- ⚡ Fun fact: **I can spend hours polishing UI details just to make an app feel perfect.**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+|                                                     **Core**                                                      |                                                   **Frameworks**                                                   |                                             **Tools & Backend**                                              |
+| :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)  |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |          ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)           |         ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)         |
+|                                                                                                                   | ![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E) |
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Footology](https://naumanx.github.io/footology/)**  
-  _Pakistan's No. 1 Foot & Hand Care Brand_  
-  → E-commerce interface, product showcase, and responsive design.
+| Project                                                               | Description                                                                                                   |
+| :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| **[Footology](https://naumanx.github.io/footology/)**                 | 🦶 **Pakistan's #1 Foot & Hand Care Brand**<br>E-commerce interface, product showcase, and responsive design. |
+| **[Toyota Capital](https://naumanx.github.io/toyotacapital/)**        | 🚗 **Authorized Toyota Dealership**<br>Vehicle catalog, service booking, and corporate identity.              |
+| **[Alpha Guest House](https://naumanx.github.io/AlphaGuestHouse/)**   | 🏨 **Premium Hospitality Booking**<br>Room amenities, location services, and booking information.             |
+| **[Montage Event](https://naumanx.github.io/montage-event-complex/)** | 💒 **Luxury Event Venue Showcase**<br>Event spaces gallery, service details, and inquiry forms.               |
 
-- **[Toyota Capital Motors](https://naumanx.github.io/toyotacapital/)**  
-  _Authorized Toyota Dealership Website_  
-  → Vehicle catalog, service booking, and corporate identity.
-
-- **[Alpha Guest House](https://naumanx.github.io/AlphaGuestHouse/)**  
-  _Premium Hospitality Booking Platform_  
-  → Room amenities, location services, and booking information.
-
-- **[Montage Event Complex](https://naumanx.github.io/montage-event-complex/)**  
-  _Luxury Event Venue Showcase_  
-  → Event spaces gallery, service details, and inquiry forms.
-
-> More projects → https://github.com/naumanx?tab=repositories
+> [**View All Repositories**](https://github.com/naumanx?tab=repositories)
 
 ---
 
-## 📱 Mobile Development Stack
+## � GitHub Stats
 
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
-  </a>
-  <a href="https://expo.dev/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/12504344?v=4" width="40" height="40" alt="Expo"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://www.nativewind.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="NativeWind"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  </a>
-</p>
+<div align="center">
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/NaumanNomi4142" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
+<a href="https://github.com/naumanx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naumanx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naumanx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://linkedin.com/in/-muhammadnauman" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-</a>
-<a href="https://fb.com/worldwar03" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
-</a>
-<a href="https://instagram.com/_muhammadnauman" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
-</a>
-</p>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naumanx&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+
+</div>
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: **nomi4142@gmail.com**
-- 💼 LinkedIn: [Muhammad Nauman](https://www.linkedin.com/in/-muhammadnauman)
-
----
-
-## ⚡ Fun Fact
-
-**I can spend hours polishing UI details just to make an app feel perfect.**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naumanx&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naumanx&layout=compact" />
-</p>
+<div align="center">
+  <a href="https://github.com/naumanx">
+  <img src="https://komarev.com/ghpvc/?username=naumanx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  
+  <p>
+    <a href="mailto:nomi4142@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
