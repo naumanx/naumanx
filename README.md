@@ -44,19 +44,19 @@ I'm a passionate **Mobile Application Developer** with a knack for building butt
 
 ## 🚀 Featured Projects
 
-| Project                                                               | Description                                                                                                   |
-| :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
-| **[Footology](https://naumanx.github.io/footology/)**                 | 🦶 **Pakistan's #1 Foot & Hand Care Brand**<br>E-commerce interface, product showcase, and responsive design. |
-| **[Dolly Diva Spa](https://naumanx.github.io/DollyDivaSpa/)**         | 💅 **Premium Medical Spa**<br>Aesthetic treatments portfolio, service details, and responsive design.         |
-| **[Toyota Capital](https://naumanx.github.io/toyotacapital/)**        | 🚗 **Authorized Toyota Dealership**<br>Vehicle catalog, service booking, and corporate identity.              |
-| **[Alpha Guest House](https://naumanx.github.io/AlphaGuestHouse/)**   | 🏨 **Premium Hospitality Booking**<br>Room amenities, location services, and booking information.             |
-| **[Montage Event](https://naumanx.github.io/montage-event-complex/)** | 💒 **Luxury Event Venue Showcase**<br>Event spaces gallery, service details, and inquiry forms.               |
+| Project                                                               | Description                                                                                                   | Tech Stack                                                                                                                                                                                                                   |
+| :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Footology](https://naumanx.github.io/footology/)**                 | 🦶 **Pakistan's #1 Foot & Hand Care Brand**<br>E-commerce interface, product showcase, and responsive design. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)               |
+| **[Dolly Diva Spa](https://naumanx.github.io/DollyDivaSpa/)**         | 💅 **Premium Medical Spa**<br>Aesthetic treatments portfolio, service details, and responsive design.         | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)                        |
+| **[Toyota Capital](https://naumanx.github.io/toyotacapital/)**        | 🚗 **Authorized Toyota Dealership**<br>Vehicle catalog, service booking, and corporate identity.              | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
+| **[Alpha Guest House](https://naumanx.github.io/AlphaGuestHouse/)**   | 🏨 **Premium Hospitality Booking**<br>Room amenities, location services, and booking information.             | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)                               |
+| **[Montage Event](https://naumanx.github.io/montage-event-complex/)** | 💒 **Luxury Event Venue Showcase**<br>Event spaces gallery, service details, and inquiry forms.               | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Styled](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)             |
 
 > [**View All Repositories**](https://github.com/naumanx?tab=repositories)
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
