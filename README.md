@@ -47,6 +47,7 @@ I'm a passionate **Mobile Application Developer** with a knack for building butt
 | Project                                                               | Description                                                                                                   |
 | :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
 | **[Footology](https://naumanx.github.io/footology/)**                 | 🦶 **Pakistan's #1 Foot & Hand Care Brand**<br>E-commerce interface, product showcase, and responsive design. |
+| **[Dolly Diva Spa](https://naumanx.github.io/DollyDivaSpa/)**         | 💅 **Premium Medical Spa**<br>Aesthetic treatments portfolio, service details, and responsive design.         |
 | **[Toyota Capital](https://naumanx.github.io/toyotacapital/)**        | 🚗 **Authorized Toyota Dealership**<br>Vehicle catalog, service booking, and corporate identity.              |
 | **[Alpha Guest House](https://naumanx.github.io/AlphaGuestHouse/)**   | 🏨 **Premium Hospitality Booking**<br>Room amenities, location services, and booking information.             |
 | **[Montage Event](https://naumanx.github.io/montage-event-complex/)** | 💒 **Luxury Event Venue Showcase**<br>Event spaces gallery, service details, and inquiry forms.               |
