@@ -56,19 +56,19 @@ I'm a passionate **Mobile Application Developer** with a knack for building butt
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Stats
 
 <div align="center">
-
-<a href="https://github.com/naumanx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naumanx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naumanx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=naumanx&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Trophies" />
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naumanx&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-
+<div align="center">
+  <a href="https://github.com/naumanx">
+    <img src="https://github-readme-stats.vercel.app/api?username=naumanx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=naumanx&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Streak Stats" />
+  </a>
 </div>
 
 ---
