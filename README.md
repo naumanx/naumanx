@@ -194,36 +194,6 @@
 
 <br/>
 
-<h3>🛒 E-Commerce & Enterprise</h3>
-<table>
-  <tr>
-    <th align="left" width="30%">App</th>
-    <th align="left" width="35%">Impact</th>
-    <th align="left" width="20%">Stack</th>
-    <th align="left" width="15%">Role</th>
-  </tr>
-  <tr>
-    <td><a href="https://naumanx.github.io/footology/"><b>Footology</b></a></td>
-    <td>#1 Foot & Hand Care Brand</td>
-    <td>React · Tailwind · Stripe</td>
-    <td>Full-Stack</td>
-  </tr>
-  <tr>
-    <td><a href="https://naumanx.github.io/DollyDivaSpa/"><b>Dolly Diva Spa</b></a></td>
-    <td>Medical Spa portfolio</td>
-    <td>React · Framer Motion</td>
-    <td>Frontend</td>
-  </tr>
-  <tr>
-    <td><a href="https://naumanx.github.io/toyotacapital/"><b>Toyota Capital</b></a></td>
-    <td>Authorized Dealership</td>
-    <td>JS · Bootstrap</td>
-    <td>Developer</td>
-  </tr>
-</table>
-
-<br/>
-
 <h3>🎮 Social & Entertainment</h3>
 <table>
   <tr>
@@ -248,36 +218,6 @@
     <td><a href="https://play.google.com/store/apps/details?id=com.groupitup"><b>GroupItUp</b></a></td>
     <td>Travel Companion</td>
     <td>RN · Real-time</td>
-    <td>Developer</td>
-  </tr>
-</table>
-
-<br/>
-
-<h3>🏨 Hospitality & Events</h3>
-<table>
-  <tr>
-    <th align="left" width="30%">App</th>
-    <th align="left" width="35%">Impact</th>
-    <th align="left" width="20%">Stack</th>
-    <th align="left" width="15%">Role</th>
-  </tr>
-  <tr>
-    <td><a href="https://naumanx.github.io/Haveli/"><b>Haveli</b></a></td>
-    <td>Luxury Banquet Venue</td>
-    <td>React · Tailwind</td>
-    <td>Developer</td>
-  </tr>
-  <tr>
-    <td><a href="https://naumanx.github.io/montage-event-complex/"><b>Montage Event</b></a></td>
-    <td>Event Space Gallery</td>
-    <td>React · Styled Components</td>
-    <td>Developer</td>
-  </tr>
-  <tr>
-    <td><a href="https://naumanx.github.io/AlphaGuestHouse/"><b>Alpha Guest House</b></a></td>
-    <td>Hospitality Booking</td>
-    <td>HTML · CSS</td>
     <td>Developer</td>
   </tr>
 </table>
